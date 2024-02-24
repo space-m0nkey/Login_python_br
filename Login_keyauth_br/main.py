@@ -28,9 +28,9 @@ def calcular_checksum():
     return digest
 
 keyauthapp = api(
-    name="reverse",
-    ownerid="h4GlGtPhNA",
-    secret="fa3158db3ec9df08dbe8ad4dc4d2f68b93b654a55e2013236cbdd455dc05799f",
+    name="",
+    ownerid="",
+    secret="",
     version="1.0",
     hash_to_check=calcular_checksum()
 )
